@@ -52,7 +52,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagrieser&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-<div><center><i>Articles</i></center></div>
+<div align="center">Articles 📜</div>  
 
 
 | Source                                                                                   | Author     | Subject              |
