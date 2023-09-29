@@ -60,6 +60,7 @@
 | [Windows Sistemlerde Yetki Yükseltme](https://cagrieser.com/articles/WinPriv.pdf) | Çağrı Eser | Privilege Escalation |
 | [PHP LFI-RFI ve RCE Bypass İşlemleri](https://cagrieser.com/articles/PHP-LFI-RFI-RCE.pdf) | Çağrı Eser | PHP Filter Bypass |
 | [SQL Injection](https://cagrieser.com/articles/SqlInjection.pdf) | Çağrı Eser | SQL Injection |
+| [Basic Encryption Types](https://cagrieser.com/articles/Ciphers.pdf) | Çağrı Eser | Basic Cryptology |
 
 
 <img src="https://gifdb.com/images/high/pixel-art-8bit-city-objgw22cel46yk7h.gif" align="center" style="width: 100%" />
